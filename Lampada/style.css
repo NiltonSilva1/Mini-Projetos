@@ -1,0 +1,16 @@
+.titulo {
+    display: flex;
+    justify-content: center;
+}
+
+
+.lamp {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+}
